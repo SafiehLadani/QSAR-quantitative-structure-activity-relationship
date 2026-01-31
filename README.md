@@ -4,4 +4,4 @@ A curated collection of tutorials on QSAR (Quantitative Structure–Activity Rel
 
 ### **Google Colab Notebooks**
 
-[1-QSAR_for_EGFR.ipynb](https://github.com/SafiehLadani/QSAR-quantitative-structure-activity-relationship/blob/main/QSAR_for_EGFR.ipynb
+[1-QSAR_for_EGFR_Inhibitors](https://github.com/SafiehLadani/QSAR-quantitative-structure-activity-relationship/blob/main/QSAR_for_EGFR.ipynb)
